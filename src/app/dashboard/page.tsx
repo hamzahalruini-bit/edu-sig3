@@ -32,7 +32,7 @@ export default function DashboardPage() {
             );
           })}
         </div>
-
+        
         {/* قسم آخر الأنشطة المنجزة */}
         <div className="bg-slate-900 border border-slate-800 rounded-xl p-5 space-y-4">
           <h3 className="font-bold text-lg text-slate-200 flex items-center gap-2">
